@@ -1,0 +1,10 @@
+Prompt Shot 1: 
+
+I would like you research and put together a full curriculum on coding in python and building software from scratch in python using VScode. This should start from the absolute basics and build incrementally to complete a fully comprehensive training program for a junior developer with no programming experience. The developer this curriculum is to be designed for suffers from ADHD, so also research this and consider its implications when building study materials and practices and tailor the course material to allow someone with ADHD to study the subject and thrive. Use every resource available to you to supplement this research. The course should cover the entire development lifecycle from conceptualisation to launch and include software tutorials where necessary, as well as background information where relevant (for example, detailing design processes in the planning stage)
+
+Prompt Shot 2: 
+
+Using the attached curriculum document as a guideline. Please build a comprehensive training course that covers all of the learning outcomes and teaching points detailed.
+
+Prompt Shot 3: 
+Below is a curriculum document that gemini generated for me. I would like you to use this information to generate a course text for me to study: ***insert response from prompt 2 here***
