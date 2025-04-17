@@ -3,4 +3,4 @@ A collection of Machine Learning / AI bits and pieces that I've been messing aro
 
 
 #ADDED 17/04/2025. 
-A folder of prompts/responses from Models - Mainly Gemini 2.5 as this is my preferred model but have noted the details for context. 
+Gemini 2.5 Pro Folder with files from a prompt asking it to develop efficient AI Technology to further advance SOTA Technology
