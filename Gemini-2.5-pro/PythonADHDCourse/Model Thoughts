@@ -149,3 +149,1063 @@ Format the response clearly with headers and bullet points for readability.
 Cite the source document appropriately.
 I have all the necessary information from the Workspace output to create the course outline. I don't need to call any other tools. I will now proceed to structure and generate the response based on the fetched document content.
 
+
+
+Shot 3 : 
+
+
+Understanding ADHD Learning
+I'm starting by looking into how people with ADHD learn best. The curriculum mentions things like breaking down tasks, using visuals, making things interactive, giving quick feedback, and offering choices. I want to understand these strategies better so I can make the course material as helpful as possible.
+Planning the Course Content
+Now that I have a better understanding of the learning approach, I'm planning how to create the actual course content. I'll go through each module of the curriculum and think about the best way to explain each topic, keeping in mind the strategies for ADHD learners. This includes finding clear explanations, examples, and ways to make the learning more hands-on.
+Next Steps in Creation
+My next step is to begin creating the content for the first module, which is all about setting up the development environment with Python and VSCode. I'll be looking for the latest installation guides and tutorials to make sure the instructions are accurate and easy to follow.
+
+Researching websites
+
+oxfordlearning.com
+How Cognitive Learning Empowers Students with ADHD - Oxford Learning
+
+additudemag.com
+Positive Teaching Strategies to Uplift Students with ADHD - ADDitude
+
+skillpointtherapy.com
+Thriving with ADHD: Effective Strategies for Child Success - Skill Point Therapy
+
+goblinxadhd.com
+ADHD Learning Strategies and Techniques for Effective Learning and Development
+
+verywellmind.com
+8 Simple Strategies for Students With ADHD - Verywell Mind
+
+adcet.edu.au
+Inclusive Teaching: Attention Deficit Hyperactivity disorder (ADHD) - ADCET
+
+childmind.org
+Behavioral Treatments for Kids With ADHD - Child Mind Institute
+
+kentwoodprepschool.com
+Empowering Students with ADHD by Teaching Cognitive Skills
+
+pmc.ncbi.nlm.nih.gov
+Universal Design for Learning for Children with ADHD - PMC - PubMed Central
+
+chadd.org
+Recognizing ADHD in the Classroom - CHADD
+
+chadd.org
+ADHD in the Classroom: Simple Strategies & Principles - CHADD
+
+chadd.org
+Adapting Positive Behavior Interventions for Children with ADHD - CHADD
+
+reed.com
+Effective teaching strategies for ADHD pupils - Reed
+
+effectivestudents.com
+Classroom Strategies for Teaching Students with ADHD
+
+chadd.org
+Teacher to Teacher: Supporting Students with ADHD - CHADD
+
+behaviourhelp.com
+Differentiating the curriculum for students with ADHD - Behaviour Help
+
+chadd.org
+Teacher Card: Recognizing ADHD & Classroom Strategies - CHADD
+
+caddac.ca
+TEACHING STRATEGIES For Typical ADHD & Executive Functioning Impairments - CADDAC
+
+chadd.org
+Attention Strategies for Students with ADHD - CHADD
+
+chadd.org
+Overcoming Challenges in Teaching Students with ADHD - CHADD
+
+thefidgetgame.com
+How To Help Students With ADHD: A Teacher's Guide - The Fidget Games
+
+chadd.org
+Teacher to Teacher - Helping teachers meet the needs of students with ADHD - CHADD
+
+chadd.org
+ADHD and School: A Toolkit for Parents - CHADD
+
+endeavorotc.com
+Adult Learning Techniques When You Have ADHD - EndeavorOTC
+
+education.wm.edu
+Classroom Interventions for Attention Deficit/ Hyperactivity Disorder Considerations Packet
+
+orbrom.com
+Effective Strategies to Improve Focus in Children with ADHD - OrbRom Center
+
+demmelearning.com
+7 Effective Teaching Strategies for Students with ADHD - Demme Learning
+
+additudemag.com
+My Teaching Strategies for ADHD Students: 6 Classroom Tips - ADDitude
+
+additudemag.com
+Teaching Strategies for Neurodivergent Students: ADHD in Education - ADDitude
+
+additudemag.com
+Teaching Strategies & Learning Styles for Kids with ADHD - ADDitude
+
+additudemag.com
+A Classroom Structured for ADHD: Strategies for Teachers - ADDitude
+
+education.nsw.gov.au
+Evidence-based strategies for ADHD - NSW Department of Education
+
+additudemag.com
+10 Teaching Strategies that Help Students with ADHD - ADDitude
+
+additudemag.com
+Classroom Strategies for Teachers of Students with ADHD or LD - ADDitude
+
+additudemag.com
+Attention-Grabbing Teaching Techniques for Distracted Students - ADDitude
+
+additudemag.com
+Teaching Strategies for Students with ADHD: Ideas to Help Every Child Shine - ADDitude
+
+m.youtube.com
+Classroom Strategies for Students with ADHD (with Shari Gent, M.S., NCED) - YouTube
+
+cdc.gov
+ADHD in the Classroom: Helping Children Succeed in School - CDC
+
+dres.illinois.edu
+Strategies/Techniques for ADHD - Disability Resources and Educational Services
+
+positiveaction.net
+10 Proven Strategies for Teaching Students with ADHD in 2023 - Positive Action
+Key Teaching Approaches
+I've found that successful teaching for individuals with ADHD involves creating a structured and predictable learning environment with clear expectations and routines. It's also important to break down complex topics into smaller, more manageable parts and to provide instructions that are easy to understand. Using visual aids like charts and diagrams can be really helpful for grasping new information.
+Keeping Learners Engaged
+To keep learners engaged, I've noted that incorporating different senses through varied activities and making lessons interactive are effective strategies. Providing regular, immediate feedback and offering positive encouragement are also crucial for motivation. Allowing for movement and short breaks can help maintain focus, and minimizing distractions in the learning space is beneficial.
+Next Module Focus
+With a solid understanding of these teaching strategies, I'm now ready to focus on creating the content for Module 1. I'll be searching for the most up-to-date guides for installing Python and VSCode, along with information on essential extensions and clear explanations of virtual environments.
+
+Researching websites
+
+code.visualstudio.com
+User interface - Visual Studio Code
+
+code.visualstudio.com
+Visual Studio Code on Windows
+
+marketplace.visualstudio.com
+
+datacamp.com
+How to Install Python on macOS and Windows - DataCamp
+
+code.visualstudio.com
+Getting started with Visual Studio Code
+
+reddit.com
+15 tips on navigating thought a codebase efficiently with VS code : r/vscode - Reddit
+
+realpython.com
+How to Install Python on Your System: A Guide - Real Python
+
+code.visualstudio.com
+Visual Studio Code tips and tricks
+
+kinsta.com
+How To Install Python on Windows, macOS, and Linux - Kinsta®
+
+marketplace.visualstudio.com
+
+marketplace.visualstudio.com
+
+python.org
+Download Python | Python.org
+
+dev.to
+Mastering Python Virtual Environments: A Beginner's Guide to venv & pip - DEV Community
+
+youtube.com
+Python Virtual Environments - Full Tutorial for Beginners - YouTube
+
+stackoverflow.com
+visual studio code - Selecting python interpreter in VSCode - Stack Overflow
+
+realpython.com
+Python Virtual Environments: A Primer
+
+code.visualstudio.com
+Extension Marketplace - Visual Studio Code
+
+docs.posit.co
+Python Environments in VS Code – Posit Workbench User Guide
+
+codingagi.net
+How to Install VS Code: A Comprehensive Guide for Windows, Mac, and Linux - CodingAGI
+
+youtube.com
+Python Virtual Environment and pip for Beginners - YouTube
+
+dev.to
+Getting Started with VSCode: A Beginner's Guide - DEV Community
+
+reddit.com
+Beginner - cannot add Python Interpreter : r/vscode - Reddit
+
+code.visualstudio.com
+Python environments in VS Code
+
+code.visualstudio.com
+Tutorial: Get started with Visual Studio Code
+
+marketplace.visualstudio.com
+
+code.visualstudio.com
+Extension Marketplace - Visual Studio Code
+
+code.visualstudio.com
+Formatting Python in VS Code
+
+marketplace.visualstudio.com
+
+getorchestra.io
+How to Install Ruff for Python on VS Code - Orchestra
+
+github.com
+VSCode extension for formatting Python code with black. - GitHub
+
+marketplace.visualstudio.com
+
+docs.astral.sh
+Setup | Ruff - Astral Docs
+
+marketplace.visualstudio.com
+
+github.com
+Visual Studio Code Extension - How to Set Up? · astral-sh ruff · Discussion #16534 - GitHub
+
+marketplace.visualstudio.com
+
+stackoverflow.com
+How to make VSCode Flake8 extension to use the plugin "pep8-naming"? - Stack Overflow
+
+marketplace.visualstudio.com
+
+marketplace.visualstudio.com
+
+marketplace.visualstudio.com
+
+micropython-stubs.readthedocs.io
+Installation Insights
+I've gathered detailed information on installing Python across different operating systems, including using official websites, package managers, and the Microsoft Store. For VSCode, I found that installation is straightforward using installers or zip files. I also learned about the distinction between user and system setups on Windows.
+VSCode Essentials
+My research into VSCode revealed the key components of its interface, like the Activity Bar and Editor. I also identified the essential extensions for Python development, such as the core Python extension by Microsoft (which includes Pylance), and the highly recommended Ruff for linting and formatting. I also looked into alternatives like Flake8 and Black.
+Virtual Environment Understanding
+I now have a good grasp of why virtual environments are important in Python for managing project dependencies and avoiding conflicts. I found clear instructions on how to create and activate them using the `venv` module, and it seems naming the environment folder `.venv` or `venv` is a common practice. I also understand how to configure VSCode to use the correct Python interpreter, especially within a virtual environment.
+Preparing Module One
+Thinking through the next steps, I plan to use the official Python and VSCode documentation as my main guides. I'll also refer to resources like Real Python for clear explanations, especially regarding virtual environments. I'll focus on providing step-by-step instructions for installation and setup, keeping in mind the need for clarity and visual aids for effective learning.
+
+Researching websites
+
+code.visualstudio.com
+Python environments in VS Code - Visual Studio Code
+
+marketplace.visualstudio.com
+
+realpython.com
+Python Virtual Environments: A Primer – Real Python
+
+code.visualstudio.com
+User interface - Visual Studio Code
+
+marketplace.visualstudio.com
+
+python.org
+Download Python | Python.org
+
+code.visualstudio.com
+Visual Studio Code on Windows
+Detailed Setup Information
+I've found comprehensive guides for installing Python and VSCode on Windows, macOS, and Linux. This includes specific steps like adding Python to the system PATH on Windows and using terminal commands to verify the installations. For VSCode, I looked at different installation methods, ensuring I have options for various user preferences.
+VSCode Extension Insights
+I now understand the importance of the Python extension in VSCode, which offers features like code completion and debugging. I also confirmed that Pylance is automatically included with this extension. Additionally, I gathered information on the Ruff extension, which is a fast tool for checking code quality and formatting, and how to set it up for automatic use.
+Virtual Environment Clarity
+The concept of Python virtual environments is now clearer to me. They are essential for keeping project dependencies separate. I have the exact commands needed to create, activate, and deactivate these environments using the `venv` module. I also know how to tell VSCode which Python interpreter to use, especially when a virtual environment is active.
+Structuring Module One
+I'm ready to put together the content for Module 1. I'll focus on breaking down the installation and setup processes into very clear, numbered steps with checklists. I'll also make sure to explain any technical terms simply and use analogies to help understanding. My aim is to make this initial setup as smooth and confidence-building as possible.
+
+Researching websites
+
+peps.python.org
+PEP 8 – Style Guide for Python Code | peps.python.org
+
+cs.stanford.edu
+Python Variables and Assignment - Stanford Computer Science
+
+realpython.com
+How to Write Beautiful Python Code With PEP 8
+
+kaust-vislab.github.io
+Variables and Assignment – Introduction to Python for Data Science - GitHub Pages
+
+teachingpython.fm
+The Power of Metaphors in Learning - Teaching Python
+
+docs.python.org
+Built-in Types — Python 3.13.3 documentation
+
+dev.to
+data structures analogies cheat sheet - DEV Community
+
+reddit.com
+Analogy for python : r/learnprogramming - Reddit
+
+docs.python.org
+3. An Informal Introduction to Python — Python 3.13.3 documentation
+
+docs.python.org
+Built-in Functions — Python 3.13.3 documentation
+
+getdbt.com
+A complete guide to DRY principles in dbt
+
+digitalocean.com
+What is DRY Development? | DigitalOcean
+
+workat.tech
+Software Design Principles (Basics) | DRY, YAGNI, KISS, etc - work@tech
+
+dataquest.io
+Python Practice: 93 Exercises, Projects, & Tips - Dataquest
+
+hackerrank.com
+Solve Python - HackerRank
+
+pychallenger.com
+Python Exercises Online | Learn & Practice Python with Pychallenger
+
+simplilearn.com
+Python Global Variables | Definition, Scope and Examples - Simplilearn.com
+
+tutorialspoint.com
+Python Functions Overview - Tutorialspoint
+
+datacamp.com
+Python Variable Scope with Local & Non-local Examples - DataCamp
+
+datacamp.com
+Python Functions: How to Call & Write Functions - DataCamp
+
+codecademy.com
+Introduction to Python: Functions Cheatsheet | Codecademy
+
+dev.to
+A Quick Guide to Python Set Methods with Examples - DEV Community
+
+tutorialspoint.com
+Python Set Methods - Tutorialspoint
+
+codesignal.com
+Mastering Tuples in Python: Immutable Collections Explained | CodeSignal Learn
+
+brainstation.io
+Python Tuple (2025 Tutorial & Examples) - BrainStation
+
+python-adv-web-apps.readthedocs.io
+
+codecademy.com
+Python | Dictionaries - Codecademy
+
+python-reference.readthedocs.io
+
+docs.python.org
+5. Data Structures — Python 3.13.3 documentation
+
+python-adv-web-apps.readthedocs.io
+
+digitalocean.com
+How To Use Python Continue, Break and Pass Statements when Working with Loops
+
+docs.python.org
+4. More Control Flow Tools — Python 3.13.3 documentation
+
+simplilearn.com
+If-Else in Python Explained with Examples - Simplilearn.com
+
+toppr.com
+Python if statement | What is Python if else statement? | Examples
+
+reddit.com
+difference between break and continue in python : r/learnpython - Reddit
+
+docs.python.org
+7. Input and Output — Python 3.13.3 documentation
+
+tutorialspoint.com
+Python If Else Statement - Tutorialspoint
+
+cissandbox.bentley.edu
+A Guide to Formatting with f-strings in Python - CIS Sandbox
+
+tutorialspoint.com
+Python Operators - Tutorialspoint
+
+programiz.com
+Python Operators (With Examples) - Programiz
+Python Fundamentals Coverage
+I've gathered a lot of information about the fundamental concepts in Python that will be covered in Module 2. This includes details on Python's syntax rules, how to use variables and different types of data, common operators, and ways to work with text. I also looked into how to control the flow of a program using conditions and loops, and the basics of organizing data using lists, tuples, dictionaries, and sets.
+Intermediate Concepts Preview
+Beyond the basics, I also explored some more advanced ideas like defining and using functions, understanding the scope of variables, and the important principle of not repeating code unnecessarily. This gives me a good foundation for explaining these concepts in the module.
+Refining Module Two Content
+To make sure Module 2 is as complete as possible, I'll be taking a closer look at some specific string manipulation techniques and making sure I have clear visual descriptions of how control flow works. I also want to include some interactive exercises directly in the learning material to help reinforce understanding.
+
+Researching websites
+
+docs.python.org
+Built-in Types — Python 3.13.3 documentation
+String Method Details
+I've successfully found detailed explanations and examples for various Python string methods like `.upper()`, `.lower()`, and `.strip()` in the official Python documentation. This fills a gap I had in the information for Module 2.
+Module Two Ready
+With the information on string methods now in hand, I believe I have a comprehensive understanding of all the topics needed for Module 2. I've gathered details on basic Python syntax, data types, operators, control flow, data structures, and functions. I also have ideas for analogies and interactive exercises to make learning easier.
+Next Module Focus
+I'm now moving on to plan the content for Module 3, which covers more advanced Python concepts like Object-Oriented Programming, working with modules and files, and handling errors. I'll be researching these topics to find clear explanations and examples to include in the course.
+
+Researching websites
+
+realpython.com
+Object-Oriented Programming (OOP) in Python
+
+youtube.com
+Object Oriented Programming with Python - Full Course for Beginners - YouTube
+
+centron.de
+Python super() & Python 3 super() - Essential Guide - centron GmbH
+
+realpython.com
+Introducing Object-Oriented Programming (Video) - Real Python
+
+m.youtube.com
+Introduction to Python Object Oriented Programming: Python Basics - YouTube
+
+lucidchart.com
+UML Class Diagram Tutorial - Lucidchart
+
+mygreatlearning.com
+Python __init__: An Overview - Great Learning
+
+programiz.com
+Python super() - Programiz
+
+softoft.de
+UML Class Diagrams - Python Code to PlantUML - Softoft
+
+stackoverflow.com
+What do __init__ and self do in Python? [duplicate] - Stack Overflow
+
+realpython.com
+Supercharge Your Classes With Python super()
+
+sbcode.net
+UML Diagrams - Design Patterns In Python
+
+reddit.com
+Can Someone explain to me what is self and init in python? : r/learnpython - Reddit
+
+stackoverflow.com
+How to draw UML diagram for python with abstract classes - Stack Overflow
+
+micropyramid.com
+Understanding self and __init__ method in python Class. | MicroPyramid
+
+pyopensci.org
+Common Python exceptions — pyOpenSci Lessons
+
+zframez.com
+Chapter 12: Exception Handling in Python -Techniques and Examples - Tutorials
+
+betterstack.com
+15 Common Errors in Python and How to Fix Them | Better Stack Community
+
+realpython.com
+FileNotFoundError | Python's Built-in Exceptions
+
+docs.python.org
+Built-in Exceptions — Python 3.13.3 documentation
+
+datacamp.com
+Exception & Error Handling in Python | Tutorial by DataCamp
+
+stackoverflow.com
+python try:except:finally - Stack Overflow
+
+analyticsvidhya.com
+Python json.loads() and json.dump() methods - Analytics Vidhya
+
+realpython.com
+Python Exceptions: An Introduction
+
+docs.python.org
+json — JSON encoder and decoder — Python 3.13.3 documentation
+
+packetswitch.co.uk
+The Ultimate Guide to Handling JSON with Python - Packetswitch
+
+digitalocean.com
+Master Python File Operations: Read, Write & Delete Files - DigitalOcean
+
+betterstack.com
+What is init.py for? | Better Stack Community
+
+cvw.cac.cornell.edu
+Introduction to Python Programming - Input/Output - File I/O - Cornell Virtual Workshop
+
+stackoverflow.com
+python - What is __init__.py for? - Stack Overflow
+
+sentry.io
+What is `__init__.py` for in Python? - Sentry
+
+knowledgehut.com
+Python File I/O - Read and Write Files in Python - KnowledgeHut
+
+datacamp.com
+Python Modules Tutorial: Importing, Writing, and Using Them - DataCamp
+
+w3resource.com
+Python File I/O: Read, Write, and Manage Files - w3resource
+
+docs.python.org
+5. The import system — Python 3.13.3 documentation
+
+docs.python.org
+Importing Modules — Python 3.13.3 documentation
+
+geekster.in
+Python OOPs Concepts (with Example) - Geekster
+
+nerd.vision
+Polymorphism, Encapsulation, Data Abstraction and Inheritance in Object-Oriented Programming | nerd.vision
+
+pythonnumericalmethods.studentorg.berkeley.edu
+
+datacamp.com
+Encapsulation in Python: A Comprehensive Guide - DataCamp
+OOP Concepts Explained
+I've found resources that clearly explain the core ideas of Object-Oriented Programming (OOP), such as how to define classes and create objects. I also looked into important concepts like inheritance, which allows you to build upon existing code, and the idea of bundling data and methods together, known as encapsulation. I also gained a basic understanding of polymorphism, which allows objects of different classes to respond to the same method call.
+Working with Modules and Files
+My research also covered how to organize Python code using modules and packages, and how to import and use both built-in and custom modules. I now understand the basics of reading from and writing to files, including how to work with different file types like JSON. This will allow me to explain how to save and load data in Python.
+Handling Errors Gracefully
+I've also gathered information on how to handle errors in Python using try and except blocks, which is crucial for writing robust programs. I learned about different types of errors that can occur and how to catch them specifically to prevent program crashes. Additionally, I looked into how to intentionally raise errors when needed.
+Visualizing Object Relationships
+To help explain OOP concepts more visually, I've researched UML class diagrams. I now understand the basic components of these diagrams and how they can represent classes, their attributes, and the relationships between them, like inheritance. This will be a valuable tool for illustrating these ideas in the course.
+Next Steps for Module Three
+I'm now ready to start putting together the content for Module 3, focusing on presenting these more advanced concepts in a clear and step-by-step manner. I'll use simple analogies and visual aids to make these topics easier to grasp.
+
+Researching websites
+
+tkxel.com
+What is the Software Maintenance Process? - Tkxel
+
+sofmen.com
+The Importance Of Software Maintenance For Organizational Sustainability - Sofmen
+
+cobrief.app
+Software maintenance: Overview, definition, and example - Cobrief
+
+lucidchart.com
+SDLC functional process flow example - Lucidchart
+
+armosec.io
+What is SDLC – Software Development Life Cycle? - ARMO
+
+processon.io
+SDLC Complete Guide, Concepts, Models, Drawing Tutorials - ProcessOn
+
+atlassian.com
+What is SDLC? Software Development Life Cycle Explained - Atlassian
+
+online.visual-paradigm.com
+
+aws.amazon.com
+What is SDLC? - Software Development Lifecycle Explained - AWS
+
+blackduck.com
+What Is the Software Development Life Cycle (SDLC) and How Does It Work? | Black Duck
+
+emergentsoftware.net
+The 7 Stages of the Software Development Life Cycle (SDLC)
+
+splunk.com
+Software Development Lifecycle (SDLC): An Introduction - Splunk
+
+harness.io
+The Seven Phases of the Software Development Life Cycle - Harness
+
+codefresh.io
+What Is Software Deployment? Checklist and Strategies - Codefresh
+
+pagerduty.com
+What Is the Software Development Life Cycle? - PagerDuty
+
+testdevlab.com
+Unit Testing vs. Integration Testing: Differences, Pros & Cons - TestDevLab
+
+smartdraw.com
+Cycle Diagram Example - Systems Development Life Cycle - SmartDraw
+
+zeet.co
+15 Most Important Software Deployment Best Practices | Zeet.co
+
+headspin.io
+Unit, Integration, and Functional Testing: 4 main points of difference - HeadSpin
+
+sumologic.com
+What is software deployment? Process & Best Practices - Sumo Logic
+
+atlassian.com
+The different types of software testing - Atlassian
+
+codefresh.io
+The Software Deployment Process: Steps, Importance, and Best Practices | Codefresh
+
+weareconflux.com
+Wireframes, Mockups, and Prototypes: Differences and Characteristics - Conflux
+
+aha.io
+Wireframe vs. Mockup vs. Prototype: What Is the Difference? - Aha!
+
+flux-academy.com
+Beginner's Guide to Wireframing for Website Design - Flux Academy
+
+reddit.com
+What core UX principles and theories do you always invoke in your Web Design work?
+
+kaarwan.com
+UI Design Simplified: 7 Must-Know Principles for Stunning Interfaces - Kaarwan
+
+en.wikipedia.org
+Separation of concerns - Wikipedia
+
+justinmind.com
+UI design principles: guidelines - Justinmind
+
+developer.onepagecrm.com
+
+atlassian.com
+User Stories | Examples and Template - Atlassian
+
+justinmind.com
+20 User story examples and best practices - Justinmind
+
+reddit.com
+difference between modularity and separation of concern? : r/AskProgramming - Reddit
+
+uxpin.com
+The Basic Principles of User Interface Design | UXPin
+
+bytefusion.de
+Separation of Concerns: Key Principle in Software Architecture - bytefusion.de
+
+careerfoundry.com
+The Ultimate Guide to UX User Stories [With Examples] - CareerFoundry
+
+reddit.com
+Can i ask what is the main difference between Functional & Non-functional requirement in simplest terms ? how to differentiate them ? : r/businessanalyst - Reddit
+
+reddit.com
+Functional vs Non-Functional Requirements : r/businessanalysis - Reddit
+
+perforce.com
+Non-functional Requirements: What They Do, Examples, and Best Practices - Perforce
+
+matrixreq.com
+Functional vs Non-Functional Requirements. Everything you need to know.
+SDLC Stages Clarified
+I've now got a clear understanding of the different stages involved in the Software Development Lifecycle (SDLC). This includes everything from the initial planning and gathering requirements to designing, building, testing, deploying, and maintaining software. I've also found some helpful visual aids like flowcharts that show how these stages connect.
+Key Development Concepts
+I've also looked into some important ideas that are part of the SDLC, such as understanding the difference between functional requirements (what the software does) and non-functional requirements (how well it does it). I also learned about user stories, which are short descriptions of what users want from the software. For the design phase, I explored principles like separating different parts of the software and making sure the user interface is clear and easy to use. Finally, I have a basic understanding of the different types of testing that are done to ensure the software works correctly.
+Preparing for the Next Module
+With this information, I'm well-prepared to create the content for Module 4, which will introduce the SDLC. My next step is to start researching the topics for Module 5, where I'll focus on how to build applications using external libraries and frameworks in Python.
+
+Researching websites
+
+documentation.its.umich.edu
+
+docs.readthedocs.com
+How to install private python packages - Read the Docs
+
+plainenglish.io
+Top 11 Python Tkinter Projects and Ideas with Free Source Code [2024] | In Plain English
+
+note.nkmk.me
+How to install Python packages with pip and requirements.txt | note.nkmk.me
+
+dev.to
+Pip Freeze > Requirements.txt: A Beginner's Guide - DEV Community
+
+pip.pypa.io
+User Guide - pip documentation v25.1.dev0
+
+instructables.com
+How to Create a Button and Handle Button Click Events in Tkinter (ttkbootstrap) With Python
+
+tutorialspoint.com
+Button Callbacks in Tkinter - Tutorialspoint
+
+youtube.com
+Tkinter Basics 2: Events and Callback Functions - YouTube
+
+dataquest.io
+Python Projects, from Beginner to Advanced - Dataquest
+
+docs.python.org
+Installing Python Modules — Python 3.13.3 documentation
+
+upgrad.com
+25+ Python GUI Projects to Up Your Programming Skills - upGrad
+
+pypi.org
+pypi.org
+
+turing.com
+All You Need to Know About How to Create PyPI Packages - Turing
+
+w3resource.com
+Python Tkinter label and button example - w3resource
+
+studytonight.com
+Python Tkinter Widgets - Studytonight
+
+pythonguis.com
+Tkinter Tutorial 2025, Create Python GUIs with TKinter
+
+tkdocs.com
+TkDocs Tutorial - A First (Real) Example
+
+youtube.com
+Python Tkinter Tutorial (Part 1): Getting Started, Elements, Layouts, and Events - YouTube
+
+empiricinfotech.com
+7 Popular Real-World Projects You Can Build Using Flask
+
+reddit.com
+Looking for Beginner-Friendly Flask Project Ideas - Reddit
+
+nobledesktop.com
+How to Handle Form Data in Flask: A Practical Approach - Noble Desktop
+
+youtube.com
+Forms, POST Requests, File Handling - Flask Tutorial Series #4 - YouTube
+
+digitalocean.com
+How To Process Incoming Request Data in Flask - DigitalOcean
+
+mimo.org
+19 Python Projects for Beginners [2025] - Mimo
+
+realpython.com
+Primer on Jinja Templating - Real Python
+
+flask.palletsprojects.com
+Templates — Flask Documentation (3.1.x)
+
+codecademy.com
+Learn Flask: Jinja2 Templates and Forms Cheatsheet - Codecademy
+
+flask.palletsprojects.com
+Blueprints and Views — Flask Documentation (3.1.x)
+
+muneebdev.com
+Flask Route Explained - MuneebDev
+
+sitepoint.com
+Understanding URL Routing in Flask - SitePoint
+
+python-adv-web-apps.readthedocs.io
+
+flask.palletsprojects.com
+Quickstart — Flask Documentation (3.1.x)
+
+reddit.com
+ELI5: What is a web server? : r/explainlikeimfive - Reddit
+
+flask.palletsprojects.com
+Tutorial — Flask Documentation (3.1.x)
+
+developer.mozilla.org
+Client-server overview - Learn web development | MDN
+
+dev.to
+Client-Server Architecture: Introduction to Web Development Concepts - DEV Community
+
+activestate.com
+How to Position Widgets in Tkinter - with Grid, Place or Pack - ActiveState
+
+activestate.com
+Learn how to use Pack in Tkinter - three examples - ActiveState
+
+runestone.academy
+15.11. Layout Mangers — How to Think like a Computer Scientist - Runestone Academy
+Module Five Focus
+I've now gathered sufficient information to start creating the content for Module 5, which will focus on building applications using Python libraries and frameworks. I have a good understanding of how to use `pip` to manage external packages and the role of `requirements.txt` for project dependencies. I also have introductory information on basic web concepts and the Flask framework, as well as the Tkinter library for creating graphical user interfaces. This will allow me to offer learners a choice based on their interests.
+Project-Based Learning
+For this module, I plan to use a project-driven approach, where learners will build either a simple web application with Flask or a desktop application with Tkinter. I've found several project ideas suitable for beginners, such as a to-do list or a calculator. I'll break down the chosen project into manageable steps with clear instructions and starter code to make the learning process engaging and less overwhelming.
+Next Steps: Developer Practices
+My next step is to research the topics for Module 6, which will cover essential developer practices. This includes understanding version control with Git and GitHub, learning how to debug code in VSCode, writing unit tests using `pytest`, and using tools for code quality like linters and formatters. I'll also look into the importance of writing good documentation.
+
+Researching websites
+
+marketplace.visualstudio.com
+
+atlassian.com
+Git Merge | Atlassian Git Tutorial
+
+docs.gitlab.com
+Common Git commands - GitLab Docs
+
+code.visualstudio.com
+Profiles in Visual Studio Code
+
+atlassian.com
+What is version control | Atlassian Git Tutorial
+
+campbell-muscle-lab.github.io
+
+about.gitlab.com
+What is Git version control? - GitLab
+
+datacamp.com
+Top 20 Git Commands with Examples: A Practical Guide - DataCamp
+
+simplilearn.com
+Basic Git Commands You Need to Know - Simplilearn.com
+
+docs.databricks.com
+Run tests with pytest using the Databricks extension for Visual Studio Code
+
+about.gitlab.com
+What is version control? - GitLab
+
+code.visualstudio.com
+Python testing in Visual Studio Code
+
+zerotomastery.io
+Beginner's Guide to Python Docstrings (With Code Examples) | Zero To Mastery
+
+labex.io
+Comprehensive Git Tutorial: From Basics to Advanced Branching Strategies | LabEx
+
+datacamp.com
+Python Docstrings Tutorial : Examples & Format for Pydoc, Numpy, Sphinx Doc Strings
+
+cs.dartmouth.edu
+Git and Github - CS50
+
+programiz.com
+Python Docstrings (With Examples) - Programiz
+
+docs.pytest.org
+How to write and report assertions in tests - pytest documentation
+
+docs.pytest.org
+Good Integration Practices - pytest documentation
+
+dataquest.io
+Unit Tests in Python: A Beginner's Guide - Dataquest
+
+docs.pytest.org
+How to write and report assertions in tests - pytest documentation
+
+happytest-apidoc.readthedocs.io
+
+understandingdata.com
+The Complete List Of Python Assert Statements - Just Understanding Data - James Phoenix
+
+dev.to
+Let's Learn Unit Testing in Python with pytest! - DEV Community
+
+youtube.com
+Pytest Tutorial – How to Test Python Code - YouTube
+
+docs.pytest.org
+Get Started - pytest documentation
+
+kms-technology.com
+The Importance of Automated Testing for Software Development Teams - KMS Technology
+
+code.visualstudio.com
+Debug code with Visual Studio Code
+
+code.visualstudio.com
+Visual Studio Code debug configuration
+
+solutionshub.epam.com
+Benefits of Test Automation | EPAM SolutionsHub
+
+code.visualstudio.com
+Getting Started with Python in VS Code
+
+code.visualstudio.com
+Python debugging in VS Code
+
+opkey.com
+Achieving Quality at Speed: How Test Automation Streamlines the Software Development Lifecycle - Opkey
+
+gitkraken.com
+GitLens | Free Git Extension for Visual Studio Code - GitKraken
+
+code.visualstudio.com
+Using Git source control in VS Code
+
+gitlens.amod.io
+GitLens — Git supercharged
+
+product.hubspot.com
+An Intro to Git and GitHub for Beginners (Tutorial) - Product, UX, & Engineering Careers
+
+docs.github.com
+Quickstart for repositories - GitHub Docs
+
+code.visualstudio.com
+Introduction to Git in VS Code
+
+docs.github.com
+About remote repositories - GitHub Docs
+Version Control Benefits
+I've learned that using a Version Control System like Git is really important for tracking changes in code, allowing collaboration, and providing a safety net if things go wrong. Concepts like repositories, commits, branches, and merging are key to managing software projects effectively.
+Debugging and Testing
+I now have a good understanding of how to use the debugging tools in VSCode to find and fix errors in code. Setting breakpoints and stepping through code are essential skills. I also researched the importance of unit testing with `pytest` to ensure code works correctly and to prevent future issues.
+Code Quality and Documentation
+My research reinforced the value of using linters and formatters to maintain consistent and high-quality code. Additionally, I looked into how to write effective documentation using docstrings, which helps others (and my future self) understand the code.
+Final Module Preparation
+I'm now ready to create the content for Module 6, focusing on providing clear, step-by-step instructions for using Git, debugging in VSCode, and writing basic tests with `pytest`. I'll also emphasize the importance of code quality and documentation as professional development practices.
+
+Researching websites
+
+developer.mozilla.org
+Django Tutorial: The Local Library website - Learn web development | MDN
+
+codeeasy.io
+Best Python Programmers' Communities Online - CodeEasy
+
+developer.mozilla.org
+Django Web Framework (Python) - Learn web development - MDN Web Docs
+
+pythondiscord.com
+Python Discord | Home
+
+docs.djangoproject.com
+Getting started - Django documentation
+
+youtube.com
+Python Django Framework Full Course - Learning with the Docs - YouTube
+
+python.org
+Our Community | Python.org
+
+github.com
+itsallaboutpython/Top-10-Easy-Python-Project-Ideas-For-Beginners - GitHub
+
+moldstud.com
+Top 10 Online Forums for Python Developers - Networking and Community Support
+
+code.visualstudio.com
+Django Tutorial in Visual Studio Code
+
+discuss.codecademy.com
+Navigating ADHD and the Tech Industry: My Personal Journey and the Path Forward - Off Topic - Codecademy Forums
+
+github.com
+python-project-beginner · GitHub Topics
+
+forum.freecodecamp.org
+Need Python Friends - You Can Do This! - The freeCodeCamp Forum
+
+github.com
+Mrinank-Bhowmick/python-beginner-projects - GitHub
+
+reddit.com
+Tips for an ADHD programmer to excel at new job : r/ADHD_Programmers - Reddit
+
+workplace.stackexchange.com
+
+github.com
+MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects. - GitHub
+
+news.ycombinator.com
+Ask HN: With ADHD, how did you become an effective software developer? - Hacker News
+
+github.com
+king04aman/All-In-One-Python-Projects - GitHub
+
+reddit.com
+Experienced developers with ADHD: what was your working life like before diagnosis/treatment, and how did things change afterwards? : r/ExperiencedDevs - Reddit
+
+bacancytechnology.com
+Python Cloud Computing: A Guide To Cloud Solutions in 2025 - Bacancy Technology
+
+dataengineeracademy.com
+
+adhdspecialist.com
+5-Step Guide to Success with ADHD in Tech Jobs (+ Bonus Pro Tips)
+
+krnetworkcloud.org
+AWS vs. Azure vs. Google Cloud: Which Cloud Platform Should You Learn First in 2025?
+
+docs.sqlalchemy.org
+ORM Quick Start — SQLAlchemy 2.0 Documentation
+
+kodaps.dev
+Managing ADHD as a Software Engineer: Tips and Strategies - Kodaps
+
+cloud.google.com
+Get started with Google Cloud | Documentation
+
+docs.sqlalchemy.org
+Object Relational Tutorial (1.x API) - SQLAlchemy Documentation
+
+nucamp.co
+Navigating Cloud Platforms: Expert Insights into AWS, Azure, and Google Cloud
+
+leantime.io
+Top Task Management Tools & Tips for ADHD - Leantime
+
+tutorialspoint.com
+SQLAlchemy Tutorial - Tutorialspoint
+
+datacamp.com
+Discover SQLAlchemy: A Beginner Tutorial With Examples - DataCamp
+
+reddit.com
+ADHD software engineers: what has helped? : r/ADHD_Programmers - Reddit
+
+auth0.com
+SQLAlchemy ORM Tutorial for Python Developers - Auth0
+
+viget.com
+Thriving as a Developer with ADHD - Viget
+
+dataquest.io
+Tutorial 1: Introduction to NumPy and pandas for Data Analysis - Dataquest
+
+youtube.com
+Complete Python Pandas Data Science Tutorial! (2025 Updated Edition) - YouTube
+
+youtube.com
+Data Analysis with Python Course - Numpy, Pandas, Data Visualization - YouTube
+
+datacamp.com
+Python pandas Tutorial: The Ultimate Guide for Beginners - DataCamp
+
+hackerearth.com
+Practical Tutorial on Data Manipulation with Numpy and Pandas in Python - HackerEarth
+Concluding Thoughts
+I've gathered resources that offer guidance on continuing to learn and grow as a Python developer after this course. This includes suggestions for finding beginner-friendly open-source projects to contribute to and ways to connect with the broader Python community online.
+Further Learning Paths
+I also looked into potential next steps for learning, such as exploring web development with Django, data science with libraries like NumPy and Pandas, and working with databases using SQLAlchemy. I've found introductory resources for each of these areas, including official documentation and tutorials.
+Managing ADHD in Development
+Finally, I've compiled a range of strategies and tips specifically for managing ADHD in a tech or development career. These insights cover areas like creating structure and routines, utilizing focus-enhancing tools, leveraging ADHD-related strengths, optimizing the work environment, and practicing effective task management and self-care. Many of these suggestions come from personal experiences shared by other neurodivergent developers.
+Ready for Course Conclusion
+With this information, I'm now well-equipped to create the concluding section of the course. I'll focus on summarizing the skills learned, encouraging continuous practice, suggesting concrete steps for ongoing learning, and providing actionable advice for managing ADHD in a developer role to support long-term success.
