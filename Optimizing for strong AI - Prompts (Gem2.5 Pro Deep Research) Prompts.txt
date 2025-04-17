@@ -1,0 +1,5 @@
+Initial Prompt: 
+lease can you research current state of the art AI models and their architecture and come up with ways to optimise them to reduce the compute required without sacrificing performance. Once you've done this, please build a new or modified architecture design that improves upon currently tested metrics. The end goal with this is to speed up the arrival of Strong AI. Be creative in your research, novel ideas are encouraged as long as they function as intended. Please output any code in Python and comment every line explaining it. Also annotate with optimisation/improvement ideas to encourage innovation. 
+
+Follow-Up Prompt: 
+Ok this is great so far thank you. Building on the ASNST concept you proposed in the research, can you now research an action plan on how to build the hardware and software required. Include a section with all steps and components needed to prototype the hardware, a section with all the code steps to build the software, a section that acts as a guide to using these together, and a broad overview of how to build and train the model
