@@ -1,0 +1,22 @@
+Optimizing AI for Strong AI
+ 
+Research Websites
+Please can you research current state of the art AI models and their architecture and come up with ways to optimise them to reduce the compute required without sacrificing performance. Once you've done this, please build a new or modified architecture design that improves upon currently tested metrics. The end goal with this is to speed up the arrival of Strong AI. Be creative in your research, novel ideas are encouraged as long as they function as intended. Please output any code in Python and comment every line explaining it. Also annotate with optimisation/improvement ideas to encourage innovation
+(1) Identify the current state-of-the-art (SOTA) AI models across major domains like Natural Language Processing (e.g., large language models), Computer Vision (e.g., image generation, object detection), and potentially others like Reinforcement Learning or Multimodal AI. Note their key performance metrics on standard benchmarks.
+(2) Analyze the fundamental architectures of these SOTA models (e.g., Transformer variants, Diffusion models, Convolutional Neural Networks, Mixture-of-Experts), detailing their core components, layers, and operational principles.
+(3) Research established techniques for optimizing AI models to reduce computational load (inference and training time, memory usage). Investigate methods such as:
+(a) Parameter reduction (pruning, quantization).
+(b) Knowledge distillation.
+(c) Efficient architecture design (e.g., efficient attention mechanisms, depthwise separable convolutions).
+(d) Conditional computation / sparsity.
+(4) Evaluate the trade-offs associated with these optimization techniques, specifically analyzing the impact on model performance (accuracy, F1-score, perplexity, FID score, etc.) versus the gains in computational efficiency.
+(5) Explore novel and emerging research directions for improving AI model efficiency and capability, including potentially bio-inspired computing, new mathematical frameworks, or alternative learning paradigms beyond standard deep learning.
+(6) Synthesize the findings from the architectural analysis and optimization research to conceptualize modifications to existing architectures or principles for a novel AI architecture. Focus on designs that promise significant compute reduction without performance degradation, or even performance improvement.
+(7) Analyze how improvements in model efficiency and architectural innovation could theoretically contribute to or accelerate the path towards Artificial General Intelligence (AGI / Strong AI).
+(8) Compare the proposed conceptual architecture against existing SOTA models and optimization methods, highlighting potential advantages, challenges, and areas requiring further research or validation.
+
+Analyze Results
+
+Create Report
+
+Ready in a few mins
