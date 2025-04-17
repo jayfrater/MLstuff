@@ -1,0 +1,32 @@
+# Response to prompt 2 held withn the prompts.txt file. Research plan created by Gemini
+
+
+ASNST Hardware and Software Plan
+ 
+Research Websites
+Develop an action plan for building the necessary hardware and software to implement and train the conceptual Adaptive Sparse Neuro-Symbolic Transformer (ASNST) architecture.
+(1) Research and outline a phased hardware prototyping plan for ASNST, focusing on components needed to efficiently handle dynamic sparsity and potential neuro-symbolic interactions. Include:
+(a) Evaluation of suitable prototyping platforms (e.g., high-end FPGAs like Xilinx Alveo or Intel Stratix, potentially exploring neuromorphic research platforms if relevant for bio-inspired aspects).
+(b) Key architectural considerations for the hardware prototype (e.g., memory bandwidth for sparse data, specialized compute units for conditional matrix operations, potential interfaces for symbolic co-processors).
+(c) Steps for hardware description language (HDL - Verilog/VHDL) development, simulation, synthesis, and testing of core ASNST-specific operations (dynamic gating, sparse attention computation).
+(2) Research and outline the software development steps required to support ASNST. Include:
+(a) Necessary modifications or extensions to existing deep learning frameworks (e.g., PyTorch, TensorFlow) to support dynamic graph execution, custom sparse operations, and integration hooks.
+(b) Development plan for custom computation kernels (e.g., using CUDA, OpenCL, or SYCL) optimized for the target hardware's handling of dynamic sparsity.
+(c) Design and implementation strategy for the software interface layer connecting the neural backbone to the symbolic reasoning module (API design, data serialization/deserialization).
+(d) Implementation plan for the modulatory control system logic within the software framework.
+(3) Research and create a guide detailing the integration process for the prototyped hardware and the developed software stack. Include:
+(a) Hardware driver development requirements.
+(b) Definition of the Application Programming Interface (API) between the software framework and the hardware accelerator.
+(c) Data transfer protocols and optimization strategies between host CPU/GPU memory and the custom hardware.
+(d) Workflow for compiling and running an ASNST model utilizing both software components and the hardware accelerator.
+(4) Research and provide a broad overview of the steps and challenges involved in building and training the ASNST model itself, considering its unique components. Include:
+(a) Dataset requirements and potential augmentation strategies suitable for training a neuro-symbolic model.
+(b) Design of complex loss functions that incorporate both standard prediction objectives and potentially terms related to symbolic consistency or sparsity regularization.
+(c) Exploration of training strategies (e.g., end-to-end, pre-training components, curriculum learning) suitable for the hybrid and dynamic nature of ASNST.
+(d) Evaluation methodologies and metrics beyond standard benchmarks, potentially including measures of reasoning capability, adaptability, and computational efficiency under varying conditions.
+
+Analyze Results
+
+Create Report
+
+Ready in a few mins
